@@ -1,0 +1,17 @@
+{
+  "name": "testp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Build complete (customize if needed)'",  
+    "test": "npx playwright test"  
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@aws-sdk/client-cloudwatch": "^3.859.0",
+    "@playwright/test": "^1.54.2"
+  }
+}
